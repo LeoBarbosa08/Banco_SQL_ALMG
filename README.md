@@ -1,2 +1,22 @@
-# Banco_SQL_ALMG
-Banco de dados em SQL da equipe de TI da ASSEMBLEIA LEGISTATIVA DE MINAS GERAIS
+# Description
+- Simulated database of the IT sector of the legislative assembly of Minas Gerais
+- This database have:
+<b>
+<ul>Civil Servant table</ul>
+<ul>IT Sectors table</ul>
+<ul>Legislative assembly Buildings</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+</b> 
